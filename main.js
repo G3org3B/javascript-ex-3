@@ -43,6 +43,7 @@ while (!utente_trovato && conteggio < Lista_cognomi.length) {
   }
 
     conteggio++;
+    console.log(conteggio++);
 
 }
 // STAMPARE LA LISTA UTENTI
